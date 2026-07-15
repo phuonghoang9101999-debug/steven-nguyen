@@ -1,0 +1,1 @@
+Đặt ảnh của bạn tên avatar.jpg vào cùng thư mục.
