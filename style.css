@@ -1,6 +1,21 @@
-.hero{text-align:center;max-width:800px;margin:auto;padding:40px;font-family:Arial;background:#0b2341;color:#fff}.avatar{width:150px;height:150px;border-radius:50%;border:4px solid gold}.btn{display:block;max-width:150px;margin:12px auto;padding:14px;background:#1d4ed8;color:#fff;text-decoration:none;border-radius:10px}.quote{color:#f7d77d}.qr {
-    width: 180px;
-    display: block;
-    margin: 20px auto;
-    border-radius: 12px;
+.hero{
+    text-align:center;
+    max-width:420px;
+    margin:30px auto;
+    padding:30px 20px;
+    font-family:Arial,sans-serif;
+    background:#0b2341;
+    color:#fff;
+    border-radius:20px;
+    box-shadow:0 10px 30px rgba(0,0,0,.25);
+}
+
+.avatar{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    border:4px solid gold;
+    object-fit:cover;
+    display:block;
+    margin:0 auto 20px;
 }
