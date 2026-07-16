@@ -19,3 +19,13 @@
     display:block;
     margin:0 auto 20px;
 }
+.qr{
+    width:150px;
+    height:150px;
+    display:block;
+    margin:20px auto;
+    border-radius:12px;
+    background:#fff;
+    padding:8px;
+    object-fit:contain;
+}
